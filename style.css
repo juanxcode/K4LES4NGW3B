@@ -14,6 +14,7 @@ body {
 @media (max-width: 515px) and (min-width: 456px) {
   nav.navbar {
     background: transparent;
+    z-index:1;
   }
 
   button.burger {
@@ -549,6 +550,7 @@ body {
 @media (max-width: 455px) and (min-width: 396px) {
   nav.navbar {
     background: transparent;
+    z-index:1;
   }
 
   button.burger {
@@ -1083,6 +1085,7 @@ body {
 @media (max-width: 395px) and (min-width: 355px) {
   nav.navbar {
     background: transparent;
+      z-index:1;
   }
 
   button.burger {
@@ -1622,6 +1625,7 @@ body {
 @media (max-width: 354px) and (min-width: 329px) {
   nav.navbar {
     background: transparent;
+      z-index:1;
   }
 
   button.burger {
